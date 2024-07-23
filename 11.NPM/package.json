@@ -1,0 +1,20 @@
+{
+  "name": "huxn",
+  "version": "1.0.0",
+  "description": "the best package ever",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "awesome",
+    "javascript"
+  ],
+  "author": "d-nak",
+  "license": "MIT"
+}
